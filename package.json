@@ -1,0 +1,23 @@
+{
+  "name": "trello-medvedeva_dudko",
+  "version": "1.0.0",
+  "description": "Участники:Дудко Мария, Медведева Наталья//\r Проект: Trello-clone",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NATASHAmedvedeva95/Trello-Medvedeva_Dudko.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NATASHAmedvedeva95/Trello-Medvedeva_Dudko/issues"
+  },
+  "homepage": "https://github.com/NATASHAmedvedeva95/Trello-Medvedeva_Dudko#readme",
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
+}
